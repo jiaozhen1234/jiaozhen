@@ -1,2 +1,3 @@
 # jiaozhen
-hello wrod
+hello wrod is a file 
+// ŒÅË¿µÄ½¾°ÁËÑis´ó¼Ò°¡iOS
